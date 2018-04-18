@@ -1,6 +1,9 @@
 # wsl-azure-bash-terminal
 Inspired by the terminal that Jessical Dean configured, I put my own spin on it. Similar to hers but more geared towards the things that I'm currently using.
 
+
+# My Environment
+![Screenshot](images/myEnvironment.png)
 ## Applications Installed
 - zsh
   - zshell
