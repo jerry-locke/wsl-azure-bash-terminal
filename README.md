@@ -9,7 +9,7 @@ Inspired by the terminal that Jessical Dean configured, I put my own spin on it.
 
 ### Install
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/jerry-locke/wsl-azure-bash-terminal/vsCodeconfigure.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/jerry-locke/wsl-azure-bash-terminal/master/vsCodeTermConfig.sh)"
 ```
 
 ### Post Install Config
