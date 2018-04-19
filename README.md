@@ -37,11 +37,9 @@ Inspired by the terminal that Jessical Dean configured, I put my own spin on it.
 - Windows 10 Fall Creators Edition
 - Ubuntu installed (https://docs.microsoft.com/en-us/windows/wsl/install-on-server)
 
-#### Mac:
-- Untested
-
 ### Install
-Start Bash and run the followiong
+Start Bash and run the following
+Note: when the oh-my-zsh install is complete you will see a prompt. Type exit at that time and hit enter. The install will continue and complete.
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/jerry-locke/wsl-azure-bash-terminal/master/vsCodeTermConfig.sh)"
 ```
