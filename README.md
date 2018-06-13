@@ -26,7 +26,7 @@ Inspired by the terminal that Jessical Dean configured, I put my own spin on it.
 - tmux
   - Terminal multiplexer used to be able to have multiple terminal sessions running under one main session
 - speedtest-cli
-  - Because my network at work is less that happy sometimes and I like to check this without leaving the terminal window
+  - Because my network at work is less than happy sometimes and I like to check this without leaving the terminal window
 - az-cli
   - One of the key reasons why I decided to put this together in the first place.
 
